@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "265142491436",
+    "firebase_url": "https://arapp-69c0d.firebaseio.com",
+    "project_id": "arapp-69c0d",
+    "storage_bucket": "arapp-69c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265142491436:android:850518e059a46be4ab7489",
+        "android_client_info": {
+          "package_name": "com.Aborteddevelopers.ar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265142491436-iu6r64emka0948b04s3hkn9ek6gehtdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Aborteddevelopers.ar_app",
+            "certificate_hash": "2113b78671fb2a943af44709cc014e2192a59553"
+          }
+        },
+        {
+          "client_id": "265142491436-2dkknjasq4kpnfq0aovvpv2j67dtshob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZjGw2xGtCugdtAyapQCn4IZlZTUjyKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265142491436-2dkknjasq4kpnfq0aovvpv2j67dtshob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
